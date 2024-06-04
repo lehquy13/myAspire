@@ -1,0 +1,901 @@
+﻿[{
+  "id": 1,
+  "quantity": 749,
+  "genre": 2,
+  "title": "pharetra magna vestibulum aliquet ultrices erat",
+  "price": 105.07,
+  "currentPrice": 998.7,
+  "image": "http://dummyimage.com/183x100.png/5fa2dd/ffffff",
+  "publicationDate": "12/7/2020"
+}, {
+  "id": 2,
+  "quantity": 750,
+  "genre": 7,
+  "title": "at turpis a pede posuere",
+  "price": 274.4,
+  "currentPrice": 384.25,
+  "image": "http://dummyimage.com/192x100.png/ff4444/ffffff",
+  "publicationDate": "11/13/2020"
+}, {
+  "id": 3,
+  "quantity": 315,
+  "genre": 1,
+  "title": "platea dictumst aliquam augue quam sollicitudin",
+  "price": 397.3,
+  "currentPrice": 297.38,
+  "image": "http://dummyimage.com/167x100.png/dddddd/000000",
+  "publicationDate": "4/24/2021"
+}, {
+  "id": 4,
+  "quantity": 850,
+  "genre": 4,
+  "title": "sed accumsan felis ut",
+  "price": 303.23,
+  "currentPrice": 508.52,
+  "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff",
+  "publicationDate": "6/1/2021"
+}, {
+  "id": 5,
+  "quantity": 32,
+  "genre": 3,
+  "title": "proin at turpis a",
+  "price": 492.93,
+  "currentPrice": 226.49,
+  "image": "http://dummyimage.com/103x100.png/cc0000/ffffff",
+  "publicationDate": "12/25/2020"
+}, {
+  "id": 6,
+  "quantity": 315,
+  "genre": 6,
+  "title": "luctus et ultrices posuere cubilia",
+  "price": 370.73,
+  "currentPrice": 102.01,
+  "image": "http://dummyimage.com/151x100.png/5fa2dd/ffffff",
+  "publicationDate": "10/8/2021"
+}, {
+  "id": 7,
+  "quantity": 321,
+  "genre": 9,
+  "title": "pede justo lacinia eget tincidunt eget",
+  "price": 480.05,
+  "currentPrice": 954.78,
+  "image": "http://dummyimage.com/190x100.png/ff4444/ffffff",
+  "publicationDate": "5/21/2021"
+}, {
+  "id": 8,
+  "quantity": 156,
+  "genre": 3,
+  "title": "amet eros suspendisse accumsan tortor",
+  "price": 597.7,
+  "currentPrice": 72.09,
+  "image": "http://dummyimage.com/170x100.png/dddddd/000000",
+  "publicationDate": "12/3/2020"
+}, {
+  "id": 9,
+  "quantity": 893,
+  "genre": 2,
+  "title": "felis sed interdum venenatis turpis",
+  "price": 834.25,
+  "currentPrice": 605.76,
+  "image": "http://dummyimage.com/153x100.png/dddddd/000000",
+  "publicationDate": "1/26/2021"
+}, {
+  "id": 10,
+  "quantity": 687,
+  "genre": 8,
+  "title": "commodo placerat praesent",
+  "price": 201.25,
+  "currentPrice": 814.97,
+  "image": "http://dummyimage.com/212x100.png/ff4444/ffffff",
+  "publicationDate": "7/13/2021"
+}, {
+  "id": 11,
+  "quantity": 959,
+  "genre": 8,
+  "title": "posuere cubilia curae",
+  "price": 98.5,
+  "currentPrice": 284.45,
+  "image": "http://dummyimage.com/240x100.png/ff4444/ffffff",
+  "publicationDate": "1/21/2021"
+}, {
+  "id": 12,
+  "quantity": 406,
+  "genre": 3,
+  "title": "consequat metus sapien ut nunc",
+  "price": 482.27,
+  "currentPrice": 631.45,
+  "image": "http://dummyimage.com/171x100.png/cc0000/ffffff",
+  "publicationDate": "3/29/2021"
+}, {
+  "id": 13,
+  "quantity": 508,
+  "genre": 9,
+  "title": "posuere metus vitae ipsum",
+  "price": 124.08,
+  "currentPrice": 426.07,
+  "image": "http://dummyimage.com/164x100.png/ff4444/ffffff",
+  "publicationDate": "1/11/2021"
+}, {
+  "id": 14,
+  "quantity": 823,
+  "genre": 1,
+  "title": "luctus et ultrices posuere cubilia curae",
+  "price": 672.35,
+  "currentPrice": 188.08,
+  "image": "http://dummyimage.com/156x100.png/dddddd/000000",
+  "publicationDate": "6/15/2021"
+}, {
+  "id": 15,
+  "quantity": 137,
+  "genre": 1,
+  "title": "molestie nibh in lectus pellentesque",
+  "price": 25.33,
+  "currentPrice": 502.32,
+  "image": "http://dummyimage.com/112x100.png/cc0000/ffffff",
+  "publicationDate": "10/30/2021"
+}, {
+  "id": 16,
+  "quantity": 906,
+  "genre": 2,
+  "title": "vulputate elementum nullam varius nulla facilisi",
+  "price": 33.43,
+  "currentPrice": 737.32,
+  "image": "http://dummyimage.com/140x100.png/5fa2dd/ffffff",
+  "publicationDate": "7/16/2021"
+}, {
+  "id": 17,
+  "quantity": 169,
+  "genre": 5,
+  "title": "luctus nec molestie sed",
+  "price": 264.04,
+  "currentPrice": 567.24,
+  "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+  "publicationDate": "4/29/2021"
+}, {
+  "id": 18,
+  "quantity": 559,
+  "genre": 4,
+  "title": "parturient montes nascetur",
+  "price": 46.07,
+  "currentPrice": 902.34,
+  "image": "http://dummyimage.com/203x100.png/dddddd/000000",
+  "publicationDate": "8/8/2021"
+}, {
+  "id": 19,
+  "quantity": 728,
+  "genre": 3,
+  "title": "nisl duis bibendum felis sed",
+  "price": 74.67,
+  "currentPrice": 237.9,
+  "image": "http://dummyimage.com/227x100.png/dddddd/000000",
+  "publicationDate": "4/5/2021"
+}, {
+  "id": 20,
+  "quantity": 457,
+  "genre": 9,
+  "title": "sed magna at nunc commodo placerat",
+  "price": 125.61,
+  "currentPrice": 793.36,
+  "image": "http://dummyimage.com/146x100.png/dddddd/000000",
+  "publicationDate": "3/20/2021"
+}, {
+  "id": 21,
+  "quantity": 520,
+  "genre": 10,
+  "title": "gravida nisi at nibh in",
+  "price": 271.8,
+  "currentPrice": 864.43,
+  "image": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+  "publicationDate": "8/12/2021"
+}, {
+  "id": 22,
+  "quantity": 826,
+  "genre": 7,
+  "title": "cubilia curae nulla dapibus dolor",
+  "price": 632.71,
+  "currentPrice": 58.56,
+  "image": "http://dummyimage.com/229x100.png/dddddd/000000",
+  "publicationDate": "4/15/2021"
+}, {
+  "id": 23,
+  "quantity": 726,
+  "genre": 6,
+  "title": "ligula pellentesque ultrices phasellus id",
+  "price": 455.08,
+  "currentPrice": 94.41,
+  "image": "http://dummyimage.com/117x100.png/ff4444/ffffff",
+  "publicationDate": "12/14/2020"
+}, {
+  "id": 24,
+  "quantity": 131,
+  "genre": 4,
+  "title": "vel pede morbi",
+  "price": 594.76,
+  "currentPrice": 202.12,
+  "image": "http://dummyimage.com/113x100.png/dddddd/000000",
+  "publicationDate": "4/9/2021"
+}, {
+  "id": 25,
+  "quantity": 309,
+  "genre": 5,
+  "title": "dis parturient montes nascetur ridiculus mus",
+  "price": 717.23,
+  "currentPrice": 787.6,
+  "image": "http://dummyimage.com/232x100.png/dddddd/000000",
+  "publicationDate": "5/29/2021"
+}, {
+  "id": 26,
+  "quantity": 316,
+  "genre": 2,
+  "title": "morbi ut odio cras mi pede",
+  "price": 219.35,
+  "currentPrice": 774.85,
+  "image": "http://dummyimage.com/249x100.png/dddddd/000000",
+  "publicationDate": "6/6/2021"
+}, {
+  "id": 27,
+  "quantity": 548,
+  "genre": 10,
+  "title": "lacus curabitur at ipsum ac tellus",
+  "price": 433.32,
+  "currentPrice": 869.6,
+  "image": "http://dummyimage.com/108x100.png/dddddd/000000",
+  "publicationDate": "11/2/2021"
+}, {
+  "id": 28,
+  "quantity": 140,
+  "genre": 0,
+  "title": "non mattis pulvinar nulla",
+  "price": 749.6,
+  "currentPrice": 421.35,
+  "image": "http://dummyimage.com/171x100.png/ff4444/ffffff",
+  "publicationDate": "4/22/2021"
+}, {
+  "id": 29,
+  "quantity": 245,
+  "genre": 0,
+  "title": "integer non velit donec",
+  "price": 223.94,
+  "currentPrice": 83.34,
+  "image": "http://dummyimage.com/218x100.png/ff4444/ffffff",
+  "publicationDate": "3/31/2021"
+}, {
+  "id": 30,
+  "quantity": 363,
+  "genre": 2,
+  "title": "pretium iaculis justo in hac habitasse",
+  "price": 109.93,
+  "currentPrice": 87.44,
+  "image": "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
+  "publicationDate": "2/7/2021"
+}, {
+  "id": 31,
+  "quantity": 136,
+  "genre": 1,
+  "title": "vestibulum sagittis sapien cum sociis natoque",
+  "price": 953.74,
+  "currentPrice": 349.51,
+  "image": "http://dummyimage.com/197x100.png/ff4444/ffffff",
+  "publicationDate": "11/26/2020"
+}, {
+  "id": 32,
+  "quantity": 484,
+  "genre": 0,
+  "title": "ante nulla justo",
+  "price": 630.92,
+  "currentPrice": 772.53,
+  "image": "http://dummyimage.com/220x100.png/ff4444/ffffff",
+  "publicationDate": "12/16/2020"
+}, {
+  "id": 33,
+  "quantity": 482,
+  "genre": 2,
+  "title": "mi integer ac neque duis",
+  "price": 978.64,
+  "currentPrice": 910.17,
+  "image": "http://dummyimage.com/126x100.png/ff4444/ffffff",
+  "publicationDate": "8/31/2021"
+}, {
+  "id": 34,
+  "quantity": 904,
+  "genre": 5,
+  "title": "eros elementum pellentesque",
+  "price": 444.75,
+  "currentPrice": 634.62,
+  "image": "http://dummyimage.com/195x100.png/ff4444/ffffff",
+  "publicationDate": "1/5/2021"
+}, {
+  "id": 35,
+  "quantity": 124,
+  "genre": 4,
+  "title": "faucibus orci luctus et ultrices",
+  "price": 44.16,
+  "currentPrice": 927.68,
+  "image": "http://dummyimage.com/127x100.png/cc0000/ffffff",
+  "publicationDate": "6/6/2021"
+}, {
+  "id": 36,
+  "quantity": 756,
+  "genre": 1,
+  "title": "ligula suspendisse ornare consequat lectus in",
+  "price": 19.0,
+  "currentPrice": 77.37,
+  "image": "http://dummyimage.com/115x100.png/cc0000/ffffff",
+  "publicationDate": "4/26/2021"
+}, {
+  "id": 37,
+  "quantity": 838,
+  "genre": 2,
+  "title": "nisl duis bibendum felis sed interdum",
+  "price": 520.55,
+  "currentPrice": 753.18,
+  "image": "http://dummyimage.com/228x100.png/dddddd/000000",
+  "publicationDate": "9/10/2021"
+}, {
+  "id": 38,
+  "quantity": 822,
+  "genre": 6,
+  "title": "dictumst maecenas ut",
+  "price": 847.45,
+  "currentPrice": 947.65,
+  "image": "http://dummyimage.com/184x100.png/dddddd/000000",
+  "publicationDate": "3/8/2021"
+}, {
+  "id": 39,
+  "quantity": 893,
+  "genre": 3,
+  "title": "nisl venenatis lacinia",
+  "price": 809.05,
+  "currentPrice": 934.29,
+  "image": "http://dummyimage.com/176x100.png/5fa2dd/ffffff",
+  "publicationDate": "1/28/2021"
+}, {
+  "id": 40,
+  "quantity": 165,
+  "genre": 2,
+  "title": "commodo vulputate justo",
+  "price": 916.55,
+  "currentPrice": 65.07,
+  "image": "http://dummyimage.com/104x100.png/cc0000/ffffff",
+  "publicationDate": "2/27/2021"
+}, {
+  "id": 41,
+  "quantity": 302,
+  "genre": 7,
+  "title": "lorem vitae mattis nibh ligula",
+  "price": 187.64,
+  "currentPrice": 545.62,
+  "image": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+  "publicationDate": "11/1/2021"
+}, {
+  "id": 42,
+  "quantity": 515,
+  "genre": 1,
+  "title": "quam sapien varius ut",
+  "price": 296.04,
+  "currentPrice": 9.44,
+  "image": "http://dummyimage.com/249x100.png/dddddd/000000",
+  "publicationDate": "8/24/2021"
+}, {
+  "id": 43,
+  "quantity": 117,
+  "genre": 7,
+  "title": "at vulputate vitae nisl aenean lectus",
+  "price": 411.05,
+  "currentPrice": 375.24,
+  "image": "http://dummyimage.com/155x100.png/dddddd/000000",
+  "publicationDate": "4/10/2021"
+}, {
+  "id": 44,
+  "quantity": 323,
+  "genre": 7,
+  "title": "ultrices posuere cubilia curae",
+  "price": 124.31,
+  "currentPrice": 775.69,
+  "image": "http://dummyimage.com/233x100.png/5fa2dd/ffffff",
+  "publicationDate": "4/14/2021"
+}, {
+  "id": 45,
+  "quantity": 183,
+  "genre": 10,
+  "title": "maecenas rhoncus aliquam",
+  "price": 598.26,
+  "currentPrice": 740.34,
+  "image": "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+  "publicationDate": "10/31/2021"
+}, {
+  "id": 46,
+  "quantity": 534,
+  "genre": 8,
+  "title": "vivamus in felis eu",
+  "price": 900.76,
+  "currentPrice": 960.93,
+  "image": "http://dummyimage.com/142x100.png/cc0000/ffffff",
+  "publicationDate": "9/4/2021"
+}, {
+  "id": 47,
+  "quantity": 720,
+  "genre": 9,
+  "title": "leo odio condimentum id luctus",
+  "price": 18.86,
+  "currentPrice": 825.35,
+  "image": "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
+  "publicationDate": "5/15/2021"
+}, {
+  "id": 48,
+  "quantity": 549,
+  "genre": 0,
+  "title": "blandit non interdum in ante",
+  "price": 641.11,
+  "currentPrice": 847.76,
+  "image": "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
+  "publicationDate": "12/27/2020"
+}, {
+  "id": 49,
+  "quantity": 571,
+  "genre": 9,
+  "title": "ante ipsum primis in faucibus",
+  "price": 419.71,
+  "currentPrice": 953.39,
+  "image": "http://dummyimage.com/242x100.png/ff4444/ffffff",
+  "publicationDate": "2/1/2021"
+}, {
+  "id": 50,
+  "quantity": 299,
+  "genre": 2,
+  "title": "pede venenatis non",
+  "price": 420.04,
+  "currentPrice": 836.16,
+  "image": "http://dummyimage.com/237x100.png/ff4444/ffffff",
+  "publicationDate": "7/22/2021"
+}, {
+  "id": 51,
+  "quantity": 803,
+  "genre": 5,
+  "title": "mattis pulvinar nulla pede ullamcorper augue",
+  "price": 591.31,
+  "currentPrice": 739.32,
+  "image": "http://dummyimage.com/136x100.png/dddddd/000000",
+  "publicationDate": "3/13/2021"
+}, {
+  "id": 52,
+  "quantity": 6,
+  "genre": 6,
+  "title": "libero quis orci",
+  "price": 150.58,
+  "currentPrice": 21.65,
+  "image": "http://dummyimage.com/220x100.png/dddddd/000000",
+  "publicationDate": "11/26/2020"
+}, {
+  "id": 53,
+  "quantity": 594,
+  "genre": 2,
+  "title": "vestibulum ante ipsum primis in",
+  "price": 854.87,
+  "currentPrice": 272.52,
+  "image": "http://dummyimage.com/202x100.png/dddddd/000000",
+  "publicationDate": "3/30/2021"
+}, {
+  "id": 54,
+  "quantity": 962,
+  "genre": 2,
+  "title": "nec euismod scelerisque quam turpis",
+  "price": 383.08,
+  "currentPrice": 748.32,
+  "image": "http://dummyimage.com/223x100.png/dddddd/000000",
+  "publicationDate": "12/22/2020"
+}, {
+  "id": 55,
+  "quantity": 672,
+  "genre": 5,
+  "title": "sapien varius ut",
+  "price": 544.47,
+  "currentPrice": 786.17,
+  "image": "http://dummyimage.com/118x100.png/cc0000/ffffff",
+  "publicationDate": "7/16/2021"
+}, {
+  "id": 56,
+  "quantity": 224,
+  "genre": 0,
+  "title": "elementum eu interdum eu",
+  "price": 229.83,
+  "currentPrice": 405.0,
+  "image": "http://dummyimage.com/173x100.png/ff4444/ffffff",
+  "publicationDate": "10/14/2021"
+}, {
+  "id": 57,
+  "quantity": 705,
+  "genre": 2,
+  "title": "posuere cubilia curae mauris",
+  "price": 764.07,
+  "currentPrice": 375.85,
+  "image": "http://dummyimage.com/153x100.png/dddddd/000000",
+  "publicationDate": "11/9/2021"
+}, {
+  "id": 58,
+  "quantity": 628,
+  "genre": 7,
+  "title": "ultrices posuere cubilia curae donec pharetra",
+  "price": 573.38,
+  "currentPrice": 632.65,
+  "image": "http://dummyimage.com/207x100.png/cc0000/ffffff",
+  "publicationDate": "11/4/2021"
+}, {
+  "id": 59,
+  "quantity": 229,
+  "genre": 2,
+  "title": "in faucibus orci",
+  "price": 754.26,
+  "currentPrice": 475.1,
+  "image": "http://dummyimage.com/112x100.png/dddddd/000000",
+  "publicationDate": "5/28/2021"
+}, {
+  "id": 60,
+  "quantity": 638,
+  "genre": 9,
+  "title": "lobortis vel dapibus at",
+  "price": 691.29,
+  "currentPrice": 891.94,
+  "image": "http://dummyimage.com/141x100.png/cc0000/ffffff",
+  "publicationDate": "4/30/2021"
+}, {
+  "id": 61,
+  "quantity": 557,
+  "genre": 6,
+  "title": "ut nulla sed accumsan felis",
+  "price": 16.91,
+  "currentPrice": 738.36,
+  "image": "http://dummyimage.com/202x100.png/ff4444/ffffff",
+  "publicationDate": "2/15/2021"
+}, {
+  "id": 62,
+  "quantity": 403,
+  "genre": 5,
+  "title": "vivamus vel nulla eget eros elementum",
+  "price": 150.7,
+  "currentPrice": 787.22,
+  "image": "http://dummyimage.com/220x100.png/ff4444/ffffff",
+  "publicationDate": "9/5/2021"
+}, {
+  "id": 63,
+  "quantity": 3,
+  "genre": 9,
+  "title": "proin eu mi nulla",
+  "price": 88.67,
+  "currentPrice": 338.42,
+  "image": "http://dummyimage.com/169x100.png/cc0000/ffffff",
+  "publicationDate": "2/24/2021"
+}, {
+  "id": 64,
+  "quantity": 184,
+  "genre": 8,
+  "title": "primis in faucibus orci luctus et",
+  "price": 934.18,
+  "currentPrice": 92.49,
+  "image": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
+  "publicationDate": "8/18/2021"
+}, {
+  "id": 65,
+  "quantity": 346,
+  "genre": 9,
+  "title": "lorem vitae mattis",
+  "price": 129.88,
+  "currentPrice": 102.65,
+  "image": "http://dummyimage.com/206x100.png/ff4444/ffffff",
+  "publicationDate": "3/19/2021"
+}, {
+  "id": 66,
+  "quantity": 403,
+  "genre": 0,
+  "title": "nibh fusce lacus purus aliquet at",
+  "price": 432.94,
+  "currentPrice": 926.74,
+  "image": "http://dummyimage.com/129x100.png/5fa2dd/ffffff",
+  "publicationDate": "10/5/2021"
+}, {
+  "id": 67,
+  "quantity": 732,
+  "genre": 8,
+  "title": "sed accumsan felis ut",
+  "price": 718.15,
+  "currentPrice": 160.52,
+  "image": "http://dummyimage.com/241x100.png/cc0000/ffffff",
+  "publicationDate": "2/13/2021"
+}, {
+  "id": 68,
+  "quantity": 462,
+  "genre": 7,
+  "title": "vulputate ut ultrices vel",
+  "price": 413.3,
+  "currentPrice": 208.08,
+  "image": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+  "publicationDate": "7/11/2021"
+}, {
+  "id": 69,
+  "quantity": 222,
+  "genre": 9,
+  "title": "luctus cum sociis natoque",
+  "price": 921.13,
+  "currentPrice": 208.16,
+  "image": "http://dummyimage.com/248x100.png/ff4444/ffffff",
+  "publicationDate": "9/5/2021"
+}, {
+  "id": 70,
+  "quantity": 166,
+  "genre": 10,
+  "title": "nulla nisl nunc",
+  "price": 351.3,
+  "currentPrice": 79.2,
+  "image": "http://dummyimage.com/179x100.png/dddddd/000000",
+  "publicationDate": "7/28/2021"
+}, {
+  "id": 71,
+  "quantity": 658,
+  "genre": 6,
+  "title": "nunc commodo placerat praesent",
+  "price": 970.21,
+  "currentPrice": 997.67,
+  "image": "http://dummyimage.com/124x100.png/cc0000/ffffff",
+  "publicationDate": "12/25/2020"
+}, {
+  "id": 72,
+  "quantity": 68,
+  "genre": 9,
+  "title": "sit amet nunc viverra dapibus nulla",
+  "price": 428.0,
+  "currentPrice": 278.01,
+  "image": "http://dummyimage.com/216x100.png/cc0000/ffffff",
+  "publicationDate": "9/20/2021"
+}, {
+  "id": 73,
+  "quantity": 757,
+  "genre": 9,
+  "title": "ullamcorper augue a",
+  "price": 586.92,
+  "currentPrice": 842.59,
+  "image": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
+  "publicationDate": "1/4/2021"
+}, {
+  "id": 74,
+  "quantity": 261,
+  "genre": 1,
+  "title": "ut rhoncus aliquet",
+  "price": 968.85,
+  "currentPrice": 314.64,
+  "image": "http://dummyimage.com/226x100.png/cc0000/ffffff",
+  "publicationDate": "2/16/2021"
+}, {
+  "id": 75,
+  "quantity": 611,
+  "genre": 0,
+  "title": "aliquet maecenas leo",
+  "price": 818.02,
+  "currentPrice": 248.12,
+  "image": "http://dummyimage.com/203x100.png/dddddd/000000",
+  "publicationDate": "2/7/2021"
+}, {
+  "id": 76,
+  "quantity": 473,
+  "genre": 3,
+  "title": "quis orci nullam",
+  "price": 282.47,
+  "currentPrice": 652.28,
+  "image": "http://dummyimage.com/131x100.png/cc0000/ffffff",
+  "publicationDate": "7/13/2021"
+}, {
+  "id": 77,
+  "quantity": 167,
+  "genre": 2,
+  "title": "orci mauris lacinia",
+  "price": 119.69,
+  "currentPrice": 375.79,
+  "image": "http://dummyimage.com/180x100.png/ff4444/ffffff",
+  "publicationDate": "8/28/2021"
+}, {
+  "id": 78,
+  "quantity": 390,
+  "genre": 1,
+  "title": "viverra dapibus nulla suscipit ligula",
+  "price": 670.14,
+  "currentPrice": 779.85,
+  "image": "http://dummyimage.com/215x100.png/cc0000/ffffff",
+  "publicationDate": "9/19/2021"
+}, {
+  "id": 79,
+  "quantity": 866,
+  "genre": 10,
+  "title": "pellentesque quisque porta volutpat erat",
+  "price": 891.37,
+  "currentPrice": 268.09,
+  "image": "http://dummyimage.com/141x100.png/5fa2dd/ffffff",
+  "publicationDate": "3/12/2021"
+}, {
+  "id": 80,
+  "quantity": 438,
+  "genre": 2,
+  "title": "ipsum dolor sit amet consectetuer",
+  "price": 98.01,
+  "currentPrice": 583.01,
+  "image": "http://dummyimage.com/120x100.png/ff4444/ffffff",
+  "publicationDate": "10/23/2021"
+}, {
+  "id": 81,
+  "quantity": 928,
+  "genre": 9,
+  "title": "in purus eu magna",
+  "price": 297.65,
+  "currentPrice": 718.77,
+  "image": "http://dummyimage.com/103x100.png/ff4444/ffffff",
+  "publicationDate": "12/20/2020"
+}, {
+  "id": 82,
+  "quantity": 583,
+  "genre": 1,
+  "title": "urna pretium nisl ut",
+  "price": 272.59,
+  "currentPrice": 713.74,
+  "image": "http://dummyimage.com/142x100.png/ff4444/ffffff",
+  "publicationDate": "12/30/2020"
+}, {
+  "id": 83,
+  "quantity": 121,
+  "genre": 9,
+  "title": "et tempus semper est",
+  "price": 250.55,
+  "currentPrice": 454.16,
+  "image": "http://dummyimage.com/177x100.png/dddddd/000000",
+  "publicationDate": "1/21/2021"
+}, {
+  "id": 84,
+  "quantity": 393,
+  "genre": 5,
+  "title": "pretium iaculis diam erat fermentum justo",
+  "price": 469.19,
+  "currentPrice": 855.83,
+  "image": "http://dummyimage.com/114x100.png/5fa2dd/ffffff",
+  "publicationDate": "3/23/2021"
+}, {
+  "id": 85,
+  "quantity": 708,
+  "genre": 0,
+  "title": "lectus pellentesque eget",
+  "price": 423.39,
+  "currentPrice": 562.79,
+  "image": "http://dummyimage.com/222x100.png/dddddd/000000",
+  "publicationDate": "4/8/2021"
+}, {
+  "id": 86,
+  "quantity": 264,
+  "genre": 7,
+  "title": "pellentesque eget nunc donec",
+  "price": 905.92,
+  "currentPrice": 702.66,
+  "image": "http://dummyimage.com/148x100.png/ff4444/ffffff",
+  "publicationDate": "8/14/2021"
+}, {
+  "id": 87,
+  "quantity": 311,
+  "genre": 1,
+  "title": "aliquet ultrices erat",
+  "price": 672.07,
+  "currentPrice": 706.39,
+  "image": "http://dummyimage.com/151x100.png/cc0000/ffffff",
+  "publicationDate": "10/17/2021"
+}, {
+  "id": 88,
+  "quantity": 711,
+  "genre": 9,
+  "title": "et eros vestibulum",
+  "price": 698.44,
+  "currentPrice": 773.4,
+  "image": "http://dummyimage.com/184x100.png/cc0000/ffffff",
+  "publicationDate": "4/11/2021"
+}, {
+  "id": 89,
+  "quantity": 195,
+  "genre": 10,
+  "title": "nec sem duis aliquam convallis nunc",
+  "price": 721.63,
+  "currentPrice": 545.99,
+  "image": "http://dummyimage.com/160x100.png/cc0000/ffffff",
+  "publicationDate": "3/22/2021"
+}, {
+  "id": 90,
+  "quantity": 369,
+  "genre": 7,
+  "title": "sociis natoque penatibus",
+  "price": 346.42,
+  "currentPrice": 978.9,
+  "image": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
+  "publicationDate": "2/13/2021"
+}, {
+  "id": 91,
+  "quantity": 278,
+  "genre": 1,
+  "title": "felis ut at dolor",
+  "price": 500.5,
+  "currentPrice": 984.74,
+  "image": "http://dummyimage.com/197x100.png/cc0000/ffffff",
+  "publicationDate": "3/20/2021"
+}, {
+  "id": 92,
+  "quantity": 615,
+  "genre": 6,
+  "title": "ac leo pellentesque ultrices",
+  "price": 110.62,
+  "currentPrice": 783.07,
+  "image": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+  "publicationDate": "7/16/2021"
+}, {
+  "id": 93,
+  "quantity": 207,
+  "genre": 10,
+  "title": "sed augue aliquam erat volutpat",
+  "price": 819.0,
+  "currentPrice": 139.73,
+  "image": "http://dummyimage.com/233x100.png/cc0000/ffffff",
+  "publicationDate": "1/18/2021"
+}, {
+  "id": 94,
+  "quantity": 265,
+  "genre": 2,
+  "title": "pede justo eu massa",
+  "price": 621.28,
+  "currentPrice": 73.93,
+  "image": "http://dummyimage.com/206x100.png/cc0000/ffffff",
+  "publicationDate": "7/2/2021"
+}, {
+  "id": 95,
+  "quantity": 339,
+  "genre": 1,
+  "title": "rutrum at lorem integer tincidunt",
+  "price": 132.24,
+  "currentPrice": 282.34,
+  "image": "http://dummyimage.com/217x100.png/cc0000/ffffff",
+  "publicationDate": "10/9/2021"
+}, {
+  "id": 96,
+  "quantity": 395,
+  "genre": 0,
+  "title": "tristique est et tempus semper",
+  "price": 385.48,
+  "currentPrice": 950.75,
+  "image": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+  "publicationDate": "9/5/2021"
+}, {
+  "id": 97,
+  "quantity": 330,
+  "genre": 3,
+  "title": "amet sapien dignissim vestibulum vestibulum",
+  "price": 37.02,
+  "currentPrice": 690.48,
+  "image": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+  "publicationDate": "9/18/2021"
+}, {
+  "id": 98,
+  "quantity": 478,
+  "genre": 0,
+  "title": "magna at nunc commodo placerat praesent",
+  "price": 879.56,
+  "currentPrice": 583.76,
+  "image": "http://dummyimage.com/108x100.png/ff4444/ffffff",
+  "publicationDate": "3/16/2021"
+}, {
+  "id": 99,
+  "quantity": 597,
+  "genre": 5,
+  "title": "iaculis justo in hac habitasse",
+  "price": 404.37,
+  "currentPrice": 554.53,
+  "image": "http://dummyimage.com/237x100.png/cc0000/ffffff",
+  "publicationDate": "12/2/2020"
+}, {
+  "id": 100,
+  "quantity": 282,
+  "genre": 9,
+  "title": "ridiculus mus vivamus vestibulum sagittis",
+  "price": 712.57,
+  "currentPrice": 248.32,
+  "image": "http://dummyimage.com/118x100.png/cc0000/ffffff",
+  "publicationDate": "4/6/2021"
+}]
