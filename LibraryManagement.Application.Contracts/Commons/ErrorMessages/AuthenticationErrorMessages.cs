@@ -14,3 +14,12 @@ public class AuthenticationErrorMessages
     public const string ResetPasswordFailWhileSavingChanges = "Reset password fail while saving changes";
     public const string ChangePasswordFail = "Change password fail";
 }
+
+//class for success login, register
+public class AuthenticationSuccessMessages
+{
+    public const string LoginSuccess = "User has login!";
+    public const string RegisterSuccess = "New user has registerd!";
+
+
+}

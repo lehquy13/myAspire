@@ -42,6 +42,7 @@ public class AuthenticationServices : ServiceBase, IAuthenticationServices
 
         var token = _jwtTokenGenerator.GenerateToken(userLoginDto);
 
+        Logger.LogInformation($"{AuthenticationSuccessMessages.LoginSuccess} {identityUser.Id}",userLoginDto.Id);
         return new AuthenticationResult(userLoginDto, token);
     }
 
@@ -149,7 +150,7 @@ public class AuthenticationServices : ServiceBase, IAuthenticationServices
             var userLoginDto = Mapper.Map<UserForLoginResponseDto>(result.Value);
 
             var token = _jwtTokenGenerator.GenerateToken(userLoginDto);
-
+            Logger.LogInformation($"{AuthenticationSuccessMessages.RegisterSuccess} {userLoginDto.Name}, {userLoginDto.Email}",userLoginDto.Id);
             return new AuthenticationResult(userLoginDto, token);
         }
         catch (Exception e)
@@ -171,7 +172,6 @@ public class AuthenticationServices : ServiceBase, IAuthenticationServices
         {
             return Result.Success();
         }
-
         return Result.Fail(AuthenticationErrorMessages.InvalidToken);
     }
 }

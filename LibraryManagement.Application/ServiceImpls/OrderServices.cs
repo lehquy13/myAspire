@@ -5,6 +5,7 @@ using LibraryManagement.Domain.DomainServices.Interfaces;
 using LibraryManagement.Domain.Interfaces;
 using LibraryManagement.Domain.Library.OrderAggregate;
 using LibraryManagement.Domain.Library.OrderAggregate.ValueObjects;
+using LibraryManagement.Domain.Library.UserAggregate;
 using LibraryManagement.Domain.Library.UserAggregate.ValueObjects;
 using LibraryManagement.Domain.Shared.Enums;
 using LibraryManagement.Domain.Shared.Results;
@@ -75,11 +76,15 @@ public class OrderServices : ServiceBase, IOrderServices
 
             var orderForDetailDto = Mapper.Map<OrderForDetailDto>(result.Value);
 
+            //Logger user success create order
+            Logger.LogInformation($"{OrderSuccessMessages.CreateOrderSuccess}",userId);
+
+
             return orderForDetailDto;
         }
         catch (Exception e)
         {
-            Logger.LogError($"{OrderErrorMessages.CreateOrderFailWithException} {e.Message}");
+            Logger.LogError($"{OrderErrorMessages.CreateOrderFailWithException} {e.Message}",userId);
             var failResultToReturn = Result
                 .Fail(OrderErrorMessages.CreateOrderFailWithException)
                 .WithError(e.Message);
@@ -99,11 +104,14 @@ public class OrderServices : ServiceBase, IOrderServices
 
         if (!result.IsSuccess)
         {
+            Logger.LogError($"{result.DisplayMessage}", customerId);
+
             return Result.Fail(result.DisplayMessage);
         }
 
         if (await UnitOfWork.SaveChangesAsync() <= 0)
         {
+            Logger.LogError($"{OrderErrorMessages.PurchaseOrderFailWhileSavingChanges}", customerId);
             return Result.Fail(OrderErrorMessages.PurchaseOrderFailWhileSavingChanges);
         }
 
@@ -112,6 +120,8 @@ public class OrderServices : ServiceBase, IOrderServices
             $"You have just purchased an order {orderId} in {DateTime.Now:dd-MM-yyyy}",
             EmailContentGenerate(DateTime.Now, result.Value.PaymentMethod.ToString(), result.Value.TotalPrice));
 
+        //Logger user success purchase order
+        Logger.LogInformation($"{OrderSuccessMessages.PurchaseOrderSuccess}", customerId);
         return Result.Success();
     }
 

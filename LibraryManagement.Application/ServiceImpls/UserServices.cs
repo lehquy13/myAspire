@@ -134,7 +134,7 @@ public class UserServices : ServiceBase, IUserServices
 
         if (user is null)
         {
-            Logger.LogError("{Message} with Id {id}", UserErrorMessages.UserNotFound, id);
+            Logger.LogError($"{UserErrorMessages.UserNotFound} with Id {id}", id);
             return Result.Fail(UserErrorMessages.UserNotFound);
         }
 
@@ -142,9 +142,10 @@ public class UserServices : ServiceBase, IUserServices
 
         if (await UnitOfWork.SaveChangesAsync() <= 0)
         {
-            Logger.LogError("{Message}", UserErrorMessages.DepositFailWhileSavingChanges);
+            Logger.LogError($"{UserErrorMessages.DepositFailWhileSavingChanges}", id);
             return Result.Fail(UserErrorMessages.DepositFailWhileSavingChanges);
         }
+        Logger.LogInformation($"Succeed deposit!", id);
 
         return Result<decimal>.Success(amount);
     }

@@ -8,3 +8,11 @@ public class OrderErrorMessages
     public const string CreateOrderFail = "Create order fails at OrderServices.cs";
     public const string CreateOrderFailWithException = "Create order fails at OrderServices.cs with exception: ";
 }
+
+//class for success order
+public class OrderSuccessMessages
+{
+    public const string PurchaseOrderSuccess = "Customer order successfully!";
+    public const string CreateOrderSuccess = "Customer create order successfully!";
+
+}

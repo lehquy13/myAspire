@@ -19,6 +19,7 @@
       <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.13" />
       <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
       <PackageReference Include="Microsoft.Extensions.Options" Version="7.0.0" />
+      <PackageReference Include="MongoDB.Driver" Version="2.25.0" />
       <PackageReference Include="Quartz" Version="3.7.0" />
       <PackageReference Include="Quartz.Extensions.Hosting" Version="3.7.0" />
     </ItemGroup>

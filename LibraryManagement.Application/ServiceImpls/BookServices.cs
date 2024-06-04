@@ -70,7 +70,7 @@ public class BookServices : ServiceBase, IBookServices
 
         if (book == null)
         {
-            Logger.LogError("{Message}", BookErrorMessages.BookNotFound);
+            Logger.LogError($"{BookErrorMessages.BookNotFound}",id);
             return Result.Fail(BookErrorMessages.BookNotFound);
         }
 
@@ -133,7 +133,7 @@ public class BookServices : ServiceBase, IBookServices
 
         if (deleteResult is false)
         {
-            Logger.LogError("{Message} with Id: {id}", BookErrorMessages.BookNotFound, id);
+            Logger.LogError($"{BookErrorMessages.BookNotFound} with Id: {id}", id);
             return Result.Fail(BookErrorMessages.BookNotFound);
         }
 
@@ -141,6 +141,7 @@ public class BookServices : ServiceBase, IBookServices
         {
             return Result.Fail(BookErrorMessages.DeleteFailWhileSavingChanges);
         }
+        Logger.LogInformation($"Book with Id: {id} has been deleted", id);
 
         return Result.Success();
     }
@@ -156,7 +157,7 @@ public class BookServices : ServiceBase, IBookServices
 
         if (book is null)
         {
-            Logger.LogError("{Message} with Id: {id}", BookErrorMessages.BookNotFound, bookId);
+            Logger.LogError($"{BookErrorMessages.BookNotFound} with Id: {bookId}",  bookId);
             return Result.Fail(BookErrorMessages.BookNotFound);
         }
 
@@ -173,7 +174,7 @@ public class BookServices : ServiceBase, IBookServices
 
         if (book is null)
         {
-            Logger.LogError("{Message} with Id: {id}", BookErrorMessages.BookNotFound, reviewForCreateDto.BookId);
+            Logger.LogError($"{BookErrorMessages.BookNotFound} with Id: {reviewForCreateDto.BookId}",reviewForCreateDto.CustomerId);
             return Result.Fail(BookErrorMessages.BookNotFound);
         }
 
@@ -186,7 +187,7 @@ public class BookServices : ServiceBase, IBookServices
 
         if (cus is null)
         {
-            Logger.LogError("{Message} with Id: {id}", UserErrorMessages.UserNotFound, reviewForCreateDto.BookId);
+            Logger.LogError($"{UserErrorMessages.UserNotFound} with Id: {reviewForCreateDto.BookId}",reviewForCreateDto.CustomerId);
             return Result.Fail(UserErrorMessages.UserNotFound);
         }
 
@@ -208,6 +209,7 @@ public class BookServices : ServiceBase, IBookServices
         {
             return Result.Fail(BookErrorMessages.UpsertFailWhileSavingChanges);
         }
+        Logger.LogInformation("Success review book!",  reviewForCreateDto.CustomerId);
 
         return Result.Success();
     }
